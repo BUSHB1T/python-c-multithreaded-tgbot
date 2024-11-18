@@ -1,2 +1,2 @@
 # python-c-multithreaded-tgbot
-Тг бот, API через гуглдиск
+Многопоточный тг бот, API через гуглдиск
